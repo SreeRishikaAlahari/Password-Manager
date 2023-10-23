@@ -13,7 +13,7 @@ import java.sql.Statement;
 import java.sql.ResultSet;
 
 
-class PasswordManager {
+public class PasswordManager {
     
     private static final String ENCODING = "UTF-8"; // Current key with invalid length
     private static final String FIXED_KEY = "Infotrixs@Key123";
